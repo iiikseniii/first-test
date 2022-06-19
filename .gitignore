@@ -1,0 +1,12 @@
+# Каталог tmp
+tmp/
+
+#  файлы, заканчивающиеся суффиксами _old, _backup
+*_old
+*_backup
+
+# файлы Thumbs.db  
+Thumbs.db
+
+# файл .DS_Store
+.DS_Store
